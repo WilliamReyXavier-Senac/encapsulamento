@@ -31,5 +31,8 @@ public class Agenda {
         System.out.println(dia + "/" + mes + " : " + anotacao);
     }
     
+    void aaaaaa() {
+        System.out.println("AAAAAAAAAAA");
+    }
     
 }
